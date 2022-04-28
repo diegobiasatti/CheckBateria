@@ -1,0 +1,36 @@
+D:\bck\BCK23_04_2013_C#\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\bin\Debug\Lenovo_G485_bateria_check.exe
+D:\bck\BCK23_04_2013_C#\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\bin\Debug\Lenovo_G485_bateria_check.pdb
+D:\bck\BCK23_04_2013_C#\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bck\BCK23_04_2013_C#\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.Form1.resources
+D:\bck\BCK23_04_2013_C#\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.Properties.Resources.resources
+D:\bck\BCK23_04_2013_C#\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\bck\BCK23_04_2013_C#\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\bck\BCK23_04_2013_C#\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.exe
+D:\bck\BCK23_04_2013_C#\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.pdb
+D:\bck\BCK23_04_2013_C#\MT40_Bateria\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.exe
+D:\bck\BCK23_04_2013_C#\MT40_Bateria\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.pdb
+D:\bck\BCK23_04_2013_C#\MT40_Bateria\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bck\BCK23_04_2013_C#\MT40_Bateria\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.Form1.resources
+D:\bck\BCK23_04_2013_C#\MT40_Bateria\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.Properties.Resources.resources
+D:\bck\BCK23_04_2013_C#\MT40_Bateria\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\bck\BCK23_04_2013_C#\MT40_Bateria\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\bck\BCK23_04_2013_C#\MT40_Bateria\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\bin\Debug\Lenovo_G485_bateria_check.exe
+D:\bck\BCK23_04_2013_C#\MT40_Bateria\Lenovo_G485_bateria_check\Lenovo_G485_bateria_check\bin\Debug\Lenovo_G485_bateria_check.pdb
+D:\bck\BCK23_04_2013_C#\MT40_V1.2\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.exe
+D:\bck\BCK23_04_2013_C#\MT40_V1.2\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.pdb
+D:\bck\BCK23_04_2013_C#\MT40_V1.2\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\bin\Debug\Lenovo_G485_bateria_check.exe
+D:\bck\BCK23_04_2013_C#\MT40_V1.2\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\bin\Debug\Lenovo_G485_bateria_check.pdb
+D:\bck\BCK23_04_2013_C#\MT40_V1.2\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bck\BCK23_04_2013_C#\MT40_V1.2\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.Form1.resources
+D:\bck\BCK23_04_2013_C#\MT40_V1.2\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.Properties.Resources.resources
+D:\bck\BCK23_04_2013_C#\MT40_V1.2\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\bck\BCK23_04_2013_C#\MT40_V1.2\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\MT40_V1.2\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.exe
+E:\MT40_V1.2\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.pdb
+D:\bck\BCK23_04_2013_C#\C21\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.exe
+D:\bck\BCK23_04_2013_C#\C21\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.pdb
+D:\bck\BCK23_04_2013_C#\C21\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\bin\Debug\Lenovo_G485_bateria_check.exe
+D:\bck\BCK23_04_2013_C#\C21\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\bin\Debug\Lenovo_G485_bateria_check.pdb
+D:\bck\BCK23_04_2013_C#\C21\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.Form1.resources
+D:\bck\BCK23_04_2013_C#\C21\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.Properties.Resources.resources
+D:\bck\BCK23_04_2013_C#\C21\Bateria_1.2_solo descarga\Lenovo_G485_bateria_check\obj\x86\Debug\Lenovo_G485_bateria_check.csproj.GenerateResource.Cache
